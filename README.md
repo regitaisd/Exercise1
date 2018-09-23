@@ -1,2 +1,2 @@
-# tugasbagus
-programming challenge no. 2 sampe abis
+# Exercise1
+programming challenge no. 2 and more
